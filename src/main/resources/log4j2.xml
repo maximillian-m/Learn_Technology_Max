@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="DEBUG">
+    <Appenders>
+        <!-- Console Appender -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%highlight{%d{HH:mm:ss.SSS} [%t] %-5level} %highlight{%logger{36}}{FATAL=red, ERROR=red, WARN=yellow, INFO=green, DEBUG=blue} - %highlight{%msg%n}{FATAL=red, ERROR=red, WARN=yellow, INFO=green, DEBUG=blue}"/>
+        </Console>
+        <File name="File" fileName="app.log">
+            <PatternLayout pattern="[%date{YYYY-MM-dd HH:mm:ss.SSS}] [%-5level] [%t] [%C{1}.%M:%L] - %msg%n"/>
+        </File>
+        <SplunkHttp
+            name="splunkhttp"
+            url="http://localhost:8088"
+            token="4c58536f-905c-4f6e-a4c0-4495b3096403"
+            host="localhost"
+            index="maximillian_index"
+            type="raw"
+            source="spring_boot_app"
+            sourceType="log4j"
+            messageFormat="text"
+            disableCertificateValidation="true">
+            <PatternLayout pattern="%m"/>
+    </SplunkHttp>
+    </Appenders>
+    <Loggers>
+        <!-- Root Logger -->
+        <Root level="info">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="File"/>
+            <AppenderRef ref="GELF-SpringBoot"/>
+        </Root>
+    </Loggers>
+</Configuration>

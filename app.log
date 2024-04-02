@@ -1,0 +1,402 @@
+[2024-03-16 14:59:04.602] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 14504 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-03-16 14:59:04.612] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-03-16 14:59:05.527] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-03-16 14:59:05.539] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-03-16 14:59:05.542] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-03-16 14:59:05.543] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-03-16 14:59:05.602] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-03-16 14:59:05.602] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 944 ms
+[2024-03-16 14:59:05.654] [INFO ] [main] [logging.getLoggers:12] - Here the default logging is info =====>> 
+[2024-03-16 14:59:05.655] [ERROR] [main] [logging.getLoggers:14] - we encountered an exception here =====>>>>
+[2024-03-16 14:59:05.655] [WARN ] [main] [logging.getLoggers:15] - ========>> soon will be deprecated you know =================>>
+[2024-03-16 14:59:06.006] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-03-16 14:59:06.026] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-03-16 14:59:06.035] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 1.972 seconds (process running for 3.291)
+[2024-03-16 16:20:57.951] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 21492 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-03-16 16:20:57.979] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-03-16 16:20:59.725] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-03-16 16:20:59.748] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-03-16 16:20:59.752] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-03-16 16:20:59.753] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-03-16 16:20:59.859] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-03-16 16:20:59.860] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 1788 ms
+[2024-03-16 16:20:59.925] [INFO ] [main] [logging.getLoggers:12] - Here the default logging is info =====>> 
+[2024-03-16 16:20:59.925] [ERROR] [main] [logging.getLoggers:14] - we encountered an exception here =====>>>>
+[2024-03-16 16:20:59.927] [WARN ] [main] [logging.getLoggers:15] - ========>> soon will be deprecated you know =================>>
+[2024-03-16 16:21:00.370] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-03-16 16:21:00.404] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-03-16 16:21:00.418] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 3.412 seconds (process running for 6.008)
+[2024-03-16 16:23:34.122] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 13836 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-03-16 16:23:34.133] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-03-16 16:23:35.121] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-03-16 16:23:35.131] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-03-16 16:23:35.138] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-03-16 16:23:35.138] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-03-16 16:23:35.190] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-03-16 16:23:35.191] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 1006 ms
+[2024-03-16 16:23:35.244] [INFO ] [main] [logging.getLoggers:12] - Here the default logging is info =====>> 
+[2024-03-16 16:23:35.244] [ERROR] [main] [logging.getLoggers:14] - we encountered an exception here =====>>>>
+[2024-03-16 16:23:35.244] [WARN ] [main] [logging.getLoggers:15] - ========>> soon will be deprecated you know =================>>
+[2024-03-16 16:23:35.569] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-03-16 16:23:35.599] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-03-16 16:23:35.610] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 1.993 seconds (process running for 3.329)
+[2024-03-16 16:25:22.207] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 3836 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-03-16 16:25:22.221] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-03-16 16:25:23.525] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-03-16 16:25:23.541] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-03-16 16:25:23.546] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-03-16 16:25:23.546] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-03-16 16:25:23.632] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-03-16 16:25:23.635] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 1315 ms
+[2024-03-16 16:25:23.693] [INFO ] [main] [logging.getLoggers:12] - Here the default logging is info =====>> 
+[2024-03-16 16:25:23.693] [ERROR] [main] [logging.getLoggers:14] - we encountered an exception here =====>>>>
+[2024-03-16 16:25:23.693] [WARN ] [main] [logging.getLoggers:15] - ========>> soon will be deprecated you know =================>>
+[2024-03-16 16:25:24.088] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-03-16 16:25:24.119] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-03-16 16:25:24.131] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 2.566 seconds (process running for 6.116)
+[2024-03-16 20:31:51.381] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 5784 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-03-16 20:31:51.391] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-03-16 20:31:52.303] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-03-16 20:31:52.316] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-03-16 20:31:52.321] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-03-16 20:31:52.322] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-03-16 20:31:52.392] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-03-16 20:31:52.392] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 955 ms
+[2024-03-16 20:31:52.449] [INFO ] [main] [logging.getLoggers:12] - Here the default logging is info =====>> 
+[2024-03-16 20:31:52.449] [ERROR] [main] [logging.getLoggers:14] - we encountered an exception here =====>>>>
+[2024-03-16 20:31:52.450] [WARN ] [main] [logging.getLoggers:15] - ========>> soon will be deprecated you know =================>>
+[2024-03-16 20:31:52.746] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-03-16 20:31:52.767] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-03-16 20:31:52.776] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 1.966 seconds (process running for 3.319)
+[2024-03-16 20:48:09.406] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 26048 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-03-16 20:48:09.417] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-03-16 20:48:10.369] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-03-16 20:48:10.380] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-03-16 20:48:10.386] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-03-16 20:48:10.387] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-03-16 20:48:10.439] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-03-16 20:48:10.440] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 968 ms
+[2024-03-16 20:48:10.490] [INFO ] [main] [logging.getLoggers:12] - Here the default logging is info =====>> 
+[2024-03-16 20:48:10.491] [ERROR] [main] [logging.getLoggers:14] - we encountered an exception here =====>>>>
+[2024-03-16 20:48:10.491] [WARN ] [main] [logging.getLoggers:15] - ========>> soon will be deprecated you know =================>>
+[2024-03-16 20:48:10.856] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-03-16 20:48:10.895] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-03-16 20:48:10.908] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 2.068 seconds (process running for 3.389)
+[2024-03-16 22:38:27.099] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 6536 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-03-16 22:38:27.113] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-03-16 22:38:28.346] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-03-16 22:38:28.359] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-03-16 22:38:28.364] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-03-16 22:38:28.365] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-03-16 22:38:28.432] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-03-16 22:38:28.433] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 1237 ms
+[2024-03-16 22:38:28.489] [INFO ] [main] [logging.getLoggers:12] - Here the default logging is info =====>> 
+[2024-03-16 22:38:28.489] [ERROR] [main] [logging.getLoggers:14] - we encountered an exception here =====>>>>
+[2024-03-16 22:38:28.489] [WARN ] [main] [logging.getLoggers:15] - ========>> soon will be deprecated you know =================>>
+[2024-03-16 22:38:28.986] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-03-16 22:38:29.026] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-03-16 22:38:29.039] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 2.542 seconds (process running for 4.524)
+[2024-03-23 13:07:52.404] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 23712 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-03-23 13:07:52.431] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-03-23 13:07:54.333] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-03-23 13:07:54.352] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-03-23 13:07:54.358] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-03-23 13:07:54.359] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-03-23 13:07:54.482] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-03-23 13:07:54.483] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 1935 ms
+[2024-03-23 13:07:57.003] [ERROR] [main] [TrialServiceImplementation.createSo:29] - <============= error while processing ==============>  (Service: S3, Status Code: 403, Request ID: tx000008b26d1d9169d0e00-0065fea9fb-9fd4a53-nyc3d)
+[2024-03-23 13:07:57.005] [INFO ] [main] [TrialServiceImplementation.doPostConstruct:37] - ===========> done <============
+[2024-03-23 13:07:57.448] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-03-23 13:07:57.477] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-03-23 13:07:57.488] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 6.103 seconds (process running for 8.587)
+[2024-03-23 13:20:46.292] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 14180 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-03-23 13:20:46.315] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-03-23 13:20:47.707] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-03-23 13:20:47.724] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-03-23 13:20:47.727] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-03-23 13:20:47.728] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-03-23 13:20:47.828] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-03-23 13:20:47.828] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 1420 ms
+[2024-03-23 13:20:52.287] [ERROR] [main] [TrialServiceImplementation.createSo:29] - <============= error while processing ==============> Unable to execute HTTP request: Certificate for <example-space.shuzia-books-bucket.nyc3.digitaloceanspaces.com> doesn't match any of the subject alternative names: [*.nyc3.digitaloceanspaces.com, nyc3.digitaloceanspaces.com]
+[2024-03-23 13:20:52.290] [INFO ] [main] [TrialServiceImplementation.doPostConstruct:36] - ===========> done <============
+[2024-03-23 13:20:52.702] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-03-23 13:20:52.731] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-03-23 13:20:52.744] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 7.192 seconds (process running for 9.177)
+[2024-03-23 13:23:04.367] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 13816 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-03-23 13:23:04.392] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-03-23 13:23:05.892] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-03-23 13:23:05.910] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-03-23 13:23:05.914] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-03-23 13:23:05.915] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-03-23 13:23:06.034] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-03-23 13:23:06.035] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 1542 ms
+[2024-03-23 13:23:08.337] [ERROR] [main] [TrialServiceImplementation.createSo:29] - <============= error while processing ==============> null (Service: S3, Status Code: 403, Request ID: tx00000000000000a107820-0065fead8b-41e06553-nyc3a)
+[2024-03-23 13:23:08.340] [INFO ] [main] [TrialServiceImplementation.doPostConstruct:36] - ===========> done <============
+[2024-03-23 13:23:08.812] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-03-23 13:23:08.840] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-03-23 13:23:08.848] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 5.242 seconds (process running for 7.345)
+[2024-03-23 13:24:33.809] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 24176 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-03-23 13:24:33.829] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-03-23 13:24:35.514] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-03-23 13:24:35.529] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-03-23 13:24:35.533] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-03-23 13:24:35.534] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-03-23 13:24:35.634] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-03-23 13:24:35.635] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 1694 ms
+[2024-03-23 13:24:37.251] [ERROR] [main] [TrialServiceImplementation.createSo:29] - <============= error while processing ==============> Received an UnknownHostException when attempting to interact with a service. See cause for the exact endpoint that is failing to resolve. If this is happening on an endpoint that previously worked, there may be a network connectivity issue or your DNS cache could be storing endpoints for too long.
+[2024-03-23 13:24:37.254] [INFO ] [main] [TrialServiceImplementation.doPostConstruct:36] - ===========> done <============
+[2024-03-23 13:24:37.676] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-03-23 13:24:37.722] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-03-23 13:24:37.733] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 4.714 seconds (process running for 6.87)
+[2024-03-23 13:31:48.477] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 21692 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-03-23 13:31:48.495] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-03-23 13:31:50.158] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-03-23 13:31:50.175] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-03-23 13:31:50.178] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-03-23 13:31:50.179] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-03-23 13:31:50.300] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-03-23 13:31:50.301] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 1681 ms
+[2024-03-23 13:31:52.027] [ERROR] [main] [TrialServiceImplementation.createSo:29] - <============= error while processing ==============> Received an UnknownHostException when attempting to interact with a service. See cause for the exact endpoint that is failing to resolve. If this is happening on an endpoint that previously worked, there may be a network connectivity issue or your DNS cache could be storing endpoints for too long.
+[2024-03-23 13:31:52.030] [INFO ] [main] [TrialServiceImplementation.doPostConstruct:36] - ===========> done <============
+[2024-03-23 13:31:52.456] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-03-23 13:31:52.483] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-03-23 13:31:52.492] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 4.792 seconds (process running for 6.984)
+[2024-03-23 13:33:13.309] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 6344 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-03-23 13:33:13.330] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-03-23 13:33:14.910] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-03-23 13:33:14.928] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-03-23 13:33:14.931] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-03-23 13:33:14.932] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-03-23 13:33:15.052] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-03-23 13:33:15.052] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 1633 ms
+[2024-03-23 13:33:15.204] [WARN ] [main] [AbstractApplicationContext.refresh:632] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'awsS3BucketService' defined in file [C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes\com\maximillian\logging\AwsS3BucketService.class]: Unsatisfied dependency expressed through constructor parameter 0: Error creating bean with name 'getClient' defined in class path resource [com/maximillian/logging/AWSS3Config.class]: Failed to instantiate [software.amazon.awssdk.services.s3.S3Client]: Factory method 'getClient' threw exception with message: The URI scheme of endpointOverride must not be null.
+[2024-03-23 13:33:15.209] [INFO ] [main] [DirectJDKLog.log:173] - Stopping service [Tomcat]
+[2024-03-23 13:33:15.232] [INFO ] [main] [ConditionEvaluationReportLogger.logMessage:82] - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[2024-03-23 13:33:15.264] [ERROR] [main] [SpringApplication.reportFailure:851] - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'awsS3BucketService' defined in file [C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes\com\maximillian\logging\AwsS3BucketService.class]: Unsatisfied dependency expressed through constructor parameter 0: Error creating bean with name 'getClient' defined in class path resource [com/maximillian/logging/AWSS3Config.class]: Failed to instantiate [software.amazon.awssdk.services.s3.S3Client]: Factory method 'getClient' threw exception with message: The URI scheme of endpointOverride must not be null.
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:798) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:237) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1355) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1192) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:562) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:959) ~[spring-context-6.1.4.jar:6.1.4]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624) ~[spring-context-6.1.4.jar:6.1.4]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.2.3.jar:3.2.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) [spring-boot-3.2.3.jar:3.2.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) [spring-boot-3.2.3.jar:3.2.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334) [spring-boot-3.2.3.jar:3.2.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) [spring-boot-3.2.3.jar:3.2.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343) [spring-boot-3.2.3.jar:3.2.3]
+	at com.maximillian.logging.LoggingTutorialLog4j2Application.main(LoggingTutorialLog4j2Application.java:10) [classes/:?]
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'getClient' defined in class path resource [com/maximillian/logging/AWSS3Config.class]: Failed to instantiate [software.amazon.awssdk.services.s3.S3Client]: Factory method 'getClient' threw exception with message: The URI scheme of endpointOverride must not be null.
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:651) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:485) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1335) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1165) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:562) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1443) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:907) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:785) ~[spring-beans-6.1.4.jar:6.1.4]
+	... 19 more
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [software.amazon.awssdk.services.s3.S3Client]: Factory method 'getClient' threw exception with message: The URI scheme of endpointOverride must not be null.
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:177) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:647) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:485) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1335) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1165) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:562) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1443) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:907) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:785) ~[spring-beans-6.1.4.jar:6.1.4]
+	... 19 more
+Caused by: java.lang.NullPointerException: The URI scheme of endpointOverride must not be null.
+	at software.amazon.awssdk.utils.Validate.paramNotNull(Validate.java:156) ~[utils-2.20.109.jar:?]
+	at software.amazon.awssdk.core.client.builder.SdkDefaultClientBuilder.endpointOverride(SdkDefaultClientBuilder.java:450) ~[sdk-core-2.20.109.jar:?]
+	at com.maximillian.logging.AWSS3Config.getClient(AWSS3Config.java:30) ~[classes/:?]
+	at com.maximillian.logging.AWSS3Config$$SpringCGLIB$$0.CGLIB$getClient$0(<generated>) ~[classes/:?]
+	at com.maximillian.logging.AWSS3Config$$SpringCGLIB$$FastClass$$1.invoke(<generated>) ~[classes/:?]
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:258) ~[spring-core-6.1.4.jar:6.1.4]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331) ~[spring-context-6.1.4.jar:6.1.4]
+	at com.maximillian.logging.AWSS3Config$$SpringCGLIB$$0.getClient(<generated>) ~[classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:140) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:647) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:485) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1335) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1165) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:562) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1443) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:907) ~[spring-beans-6.1.4.jar:6.1.4]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:785) ~[spring-beans-6.1.4.jar:6.1.4]
+	... 19 more
+[2024-03-23 13:36:27.672] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 18456 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-03-23 13:36:27.695] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-03-23 13:36:29.302] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-03-23 13:36:29.319] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-03-23 13:36:29.323] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-03-23 13:36:29.324] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-03-23 13:36:29.472] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-03-23 13:36:29.475] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 1669 ms
+[2024-03-23 13:36:31.326] [ERROR] [main] [TrialServiceImplementation.createSo:29] - <============= error while processing ==============> Received an UnknownHostException when attempting to interact with a service. See cause for the exact endpoint that is failing to resolve. If this is happening on an endpoint that previously worked, there may be a network connectivity issue or your DNS cache could be storing endpoints for too long.
+[2024-03-23 13:36:31.328] [INFO ] [main] [TrialServiceImplementation.doPostConstruct:36] - ===========> done <============
+[2024-03-23 13:36:31.726] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-03-23 13:36:31.764] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-03-23 13:36:31.780] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 5.02 seconds (process running for 7.19)
+[2024-03-23 13:41:03.114] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 18264 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-03-23 13:41:03.137] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-03-23 13:41:05.113] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-03-23 13:41:05.142] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-03-23 13:41:05.147] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-03-23 13:41:05.148] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-03-23 13:41:05.353] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-03-23 13:41:05.367] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 2107 ms
+[2024-03-23 13:41:07.671] [ERROR] [main] [TrialServiceImplementation.createSo:29] - <============= error while processing ==============> Received an UnknownHostException when attempting to interact with a service. See cause for the exact endpoint that is failing to resolve. If this is happening on an endpoint that previously worked, there may be a network connectivity issue or your DNS cache could be storing endpoints for too long.
+[2024-03-23 13:41:07.674] [INFO ] [main] [TrialServiceImplementation.doPostConstruct:36] - ===========> done <============
+[2024-03-23 13:41:08.265] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-03-23 13:41:08.325] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-03-23 13:41:08.345] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 6.094 seconds (process running for 8.622)
+[2024-03-23 13:46:22.255] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 19608 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-03-23 13:46:22.275] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-03-23 13:46:23.617] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-03-23 13:46:23.634] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-03-23 13:46:23.638] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-03-23 13:46:23.638] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-03-23 13:46:23.756] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-03-23 13:46:23.757] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 1392 ms
+[2024-03-23 13:46:25.474] [ERROR] [main] [TrialServiceImplementation.createSo:29] - <============= error while processing ==============> Received an UnknownHostException when attempting to interact with a service. See cause for the exact endpoint that is failing to resolve. If this is happening on an endpoint that previously worked, there may be a network connectivity issue or your DNS cache could be storing endpoints for too long.
+[2024-03-23 13:46:25.477] [INFO ] [main] [TrialServiceImplementation.doPostConstruct:36] - ===========> done <============
+[2024-03-23 13:46:26.008] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-03-23 13:46:26.051] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-03-23 13:46:26.071] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 4.545 seconds (process running for 6.705)
+[2024-03-23 13:48:54.704] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 22688 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-03-23 13:48:54.719] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-03-23 13:48:56.390] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-03-23 13:48:56.409] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-03-23 13:48:56.414] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-03-23 13:48:56.415] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-03-23 13:48:56.555] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-03-23 13:48:56.556] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 1740 ms
+[2024-03-23 13:48:58.301] [ERROR] [main] [TrialServiceImplementation.createSo:29] - <============= error while processing ==============> Received an UnknownHostException when attempting to interact with a service. See cause for the exact endpoint that is failing to resolve. If this is happening on an endpoint that previously worked, there may be a network connectivity issue or your DNS cache could be storing endpoints for too long.
+[2024-03-23 13:48:58.304] [INFO ] [main] [TrialServiceImplementation.doPostConstruct:36] - ===========> done <============
+[2024-03-23 13:48:58.686] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-03-23 13:48:58.721] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-03-23 13:48:58.736] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 4.726 seconds (process running for 6.72)
+[2024-03-31 23:39:49.437] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 23008 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-03-31 23:39:49.464] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-03-31 23:39:50.738] [INFO ] [main] [RepositoryConfigurationDelegate.multipleStoresDetected:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+[2024-03-31 23:39:50.743] [INFO ] [main] [RepositoryConfigurationDelegate.registerRepositoriesIn:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[2024-03-31 23:39:50.790] [INFO ] [main] [RepositoryConfigurationDelegate.registerRepositoriesIn:208] - Finished Spring Data repository scanning in 20 ms. Found 0 Redis repository interfaces.
+[2024-03-31 23:39:51.468] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-03-31 23:39:51.490] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-03-31 23:39:51.494] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-03-31 23:39:51.495] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-03-31 23:39:51.635] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-03-31 23:39:51.636] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 2077 ms
+[2024-03-31 23:39:52.862] [INFO ] [main] [logging.getLoggers:12] - Here the default logging is info =====>> 
+[2024-03-31 23:39:52.862] [ERROR] [main] [logging.getLoggers:14] - we encountered an exception here =====>>>>
+[2024-03-31 23:39:52.862] [WARN ] [main] [logging.getLoggers:15] - ========>> soon will be deprecated you know =================>>
+[2024-03-31 23:39:53.512] [ERROR] [main] [TrialServiceImplementation.createSo:30] - <============= error while processing ==============> Received an UnknownHostException when attempting to interact with a service. See cause for the exact endpoint that is failing to resolve. If this is happening on an endpoint that previously worked, there may be a network connectivity issue or your DNS cache could be storing endpoints for too long.
+[2024-03-31 23:39:53.516] [INFO ] [main] [TrialServiceImplementation.doPostConstruct:37] - ===========> done <============
+[2024-03-31 23:39:54.764] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-03-31 23:39:54.793] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-03-31 23:39:57.018] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 8.454 seconds (process running for 10.843)
+[2024-03-31 23:41:06.977] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 13612 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-03-31 23:41:06.999] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-03-31 23:41:08.226] [INFO ] [main] [RepositoryConfigurationDelegate.multipleStoresDetected:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+[2024-03-31 23:41:08.232] [INFO ] [main] [RepositoryConfigurationDelegate.registerRepositoriesIn:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[2024-03-31 23:41:08.287] [INFO ] [main] [RepositoryConfigurationDelegate.registerRepositoriesIn:208] - Finished Spring Data repository scanning in 25 ms. Found 0 Redis repository interfaces.
+[2024-03-31 23:41:08.974] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-03-31 23:41:08.990] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-03-31 23:41:08.993] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-03-31 23:41:08.993] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-03-31 23:41:09.097] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-03-31 23:41:09.098] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 1983 ms
+[2024-03-31 23:41:09.945] [INFO ] [main] [logging.getLoggers:12] - Here the default logging is info =====>> 
+[2024-03-31 23:41:09.946] [ERROR] [main] [logging.getLoggers:14] - we encountered an exception here =====>>>>
+[2024-03-31 23:41:09.946] [WARN ] [main] [logging.getLoggers:15] - ========>> soon will be deprecated you know =================>>
+[2024-03-31 23:41:10.746] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-03-31 23:41:10.770] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-03-31 23:41:11.586] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 5.319 seconds (process running for 7.459)
+[2024-04-02 22:22:36.873] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 26776 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-04-02 22:22:36.887] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-04-02 22:22:37.841] [INFO ] [main] [RepositoryConfigurationDelegate.multipleStoresDetected:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+[2024-04-02 22:22:37.846] [INFO ] [main] [RepositoryConfigurationDelegate.registerRepositoriesIn:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[2024-04-02 22:22:37.890] [INFO ] [main] [RepositoryConfigurationDelegate.registerRepositoriesIn:208] - Finished Spring Data repository scanning in 18 ms. Found 0 Redis repository interfaces.
+[2024-04-02 22:22:38.463] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-04-02 22:22:38.479] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-02 22:22:38.482] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-04-02 22:22:38.484] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-02 22:22:38.585] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-04-02 22:22:38.586] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 1609 ms
+[2024-04-02 22:22:39.524] [INFO ] [main] [logging.getLoggers:12] - Here the default logging is info =====>> 
+[2024-04-02 22:22:39.524] [ERROR] [main] [logging.getLoggers:14] - we encountered an exception here =====>>>>
+[2024-04-02 22:22:39.524] [WARN ] [main] [logging.getLoggers:15] - ========>> soon will be deprecated you know =================>>
+[2024-04-02 22:22:42.233] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-02 22:22:42.246] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-04-02 22:22:42.271] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 6.1 seconds (process running for 8.219)
+[2024-04-02 22:29:28.118] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 39332 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-04-02 22:29:28.130] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-04-02 22:29:28.941] [INFO ] [main] [RepositoryConfigurationDelegate.multipleStoresDetected:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+[2024-04-02 22:29:28.945] [INFO ] [main] [RepositoryConfigurationDelegate.registerRepositoriesIn:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[2024-04-02 22:29:28.983] [INFO ] [main] [RepositoryConfigurationDelegate.registerRepositoriesIn:208] - Finished Spring Data repository scanning in 18 ms. Found 0 Redis repository interfaces.
+[2024-04-02 22:29:29.547] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-04-02 22:29:29.562] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-02 22:29:29.564] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-04-02 22:29:29.564] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-02 22:29:29.660] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-04-02 22:29:29.660] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 1449 ms
+[2024-04-02 22:29:30.502] [INFO ] [main] [logging.getLoggers:12] - Here the default logging is info =====>> 
+[2024-04-02 22:29:30.503] [ERROR] [main] [logging.getLoggers:14] - we encountered an exception here =====>>>>
+[2024-04-02 22:29:30.503] [WARN ] [main] [logging.getLoggers:15] - ========>> soon will be deprecated you know =================>>
+[2024-04-02 22:29:32.012] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-02 22:29:32.026] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-04-02 22:29:32.057] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 4.63 seconds (process running for 6.222)
+[2024-04-02 22:32:01.409] [INFO ] [main] [StartupInfoLogger.logStarting:50] - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 13692 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+[2024-04-02 22:32:01.427] [INFO ] [main] [SpringApplication.logStartupProfileInfo:654] - No active profile set, falling back to 1 default profile: "default"
+[2024-04-02 22:32:02.897] [INFO ] [main] [RepositoryConfigurationDelegate.multipleStoresDetected:292] - Multiple Spring Data modules found, entering strict repository configuration mode
+[2024-04-02 22:32:02.902] [INFO ] [main] [RepositoryConfigurationDelegate.registerRepositoriesIn:139] - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[2024-04-02 22:32:02.958] [INFO ] [main] [RepositoryConfigurationDelegate.registerRepositoriesIn:208] - Finished Spring Data repository scanning in 25 ms. Found 0 Redis repository interfaces.
+[2024-04-02 22:32:03.711] [INFO ] [main] [TomcatWebServer.initialize:109] - Tomcat initialized with port 8080 (http)
+[2024-04-02 22:32:03.729] [INFO ] [main] [DirectJDKLog.log:173] - Initializing ProtocolHandler ["http-nio-8080"]
+[2024-04-02 22:32:03.731] [INFO ] [main] [DirectJDKLog.log:173] - Starting service [Tomcat]
+[2024-04-02 22:32:03.732] [INFO ] [main] [DirectJDKLog.log:173] - Starting Servlet engine: [Apache Tomcat/10.1.19]
+[2024-04-02 22:32:03.846] [INFO ] [main] [DirectJDKLog.log:173] - Initializing Spring embedded WebApplicationContext
+[2024-04-02 22:32:03.848] [INFO ] [main] [ServletWebServerApplicationContext.prepareWebApplicationContext:296] - Root WebApplicationContext: initialization completed in 2326 ms
+[2024-04-02 22:32:04.604] [INFO ] [main] [logging.getLoggers:12] - Here the default logging is info =====>> 
+[2024-04-02 22:32:04.605] [ERROR] [main] [logging.getLoggers:14] - we encountered an exception here =====>>>>
+[2024-04-02 22:32:04.605] [WARN ] [main] [logging.getLoggers:15] - ========>> soon will be deprecated you know =================>>
+[2024-04-02 22:32:05.993] [INFO ] [main] [DirectJDKLog.log:173] - Starting ProtocolHandler ["http-nio-8080"]
+[2024-04-02 22:32:06.008] [INFO ] [main] [TomcatWebServer.start:241] - Tomcat started on port 8080 (http) with context path ''
+[2024-04-02 22:32:06.036] [INFO ] [main] [StartupInfoLogger.logStarted:56] - Started LoggingTutorialLog4j2Application in 5.443 seconds (process running for 7.724)

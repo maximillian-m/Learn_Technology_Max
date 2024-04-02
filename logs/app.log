@@ -1,0 +1,18 @@
+02:18:39.334 [main] INFO  com.maximillian.logging.LoggingTutorialLog4j2Application - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 21232 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+02:18:39.345 [main] INFO  com.maximillian.logging.LoggingTutorialLog4j2Application - No active profile set, falling back to 1 default profile: "default"
+02:18:40.434 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+02:18:40.522 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1123 ms
+02:18:40.575 [main] INFO  com.maximillian.logging.controller.logging - Here the default logging is info =====>> 
+02:18:40.575 [main] ERROR com.maximillian.logging.controller.logging - we encountered an exception here =====>>>>
+02:18:40.576 [main] WARN  com.maximillian.logging.controller.logging - ========>> soon will be deprecated you know =================>>
+02:18:40.950 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+02:18:40.959 [main] INFO  com.maximillian.logging.LoggingTutorialLog4j2Application - Started LoggingTutorialLog4j2Application in 2.126 seconds (process running for 3.629)
+02:25:51.183 [main] INFO  com.maximillian.logging.LoggingTutorialLog4j2Application - Starting LoggingTutorialLog4j2Application using Java 17.0.9 with PID 25104 (C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2\target\classes started by hp in C:\Users\hp\Documents\GitHub\logging_Tutorial_log4j2)
+02:25:51.200 [main] INFO  com.maximillian.logging.LoggingTutorialLog4j2Application - No active profile set, falling back to 1 default profile: "default"
+02:25:52.438 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+02:25:52.513 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1239 ms
+02:25:52.567 [main] INFO  com.maximillian.logging.controller.logging - Here the default logging is info =====>> 
+02:25:52.567 [main] ERROR com.maximillian.logging.controller.logging - we encountered an exception here =====>>>>
+02:25:52.567 [main] WARN  com.maximillian.logging.controller.logging - ========>> soon will be deprecated you know =================>>
+02:25:52.959 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+02:25:52.969 [main] INFO  com.maximillian.logging.LoggingTutorialLog4j2Application - Started LoggingTutorialLog4j2Application in 2.492 seconds (process running for 4.61)

@@ -1,0 +1,4 @@
+For the firebase implementation which is typically used for the sending of push notifications and also for initializing oauth with google applications
+1. First we have to add the fire base admin sdk for interacting with google firebase operations
+2. Then configure the firebase sdk to initialize the credentials gotten from the firebase projects before it can be used to send push notifications and used for firebase/
+    authentication. cite: https://www.baeldung.com/spring-fcm

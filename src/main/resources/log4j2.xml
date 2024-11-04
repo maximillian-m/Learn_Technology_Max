@@ -8,16 +8,27 @@
         <File name="File" fileName="app.log">
             <PatternLayout pattern="[%date{YYYY-MM-dd HH:mm:ss.SSS}] [%-5level] [%t] [%C{1}.%M:%L] - %msg%n"/>
         </File>
+<!--        <SplunkHttp-->
+<!--            name="splunkhttp"-->
+<!--            url="http://127.0.0.1:8088"-->
+<!--            token="3c5ff5c0-d645-47ac-ba24-74b8d8125038"-->
+<!--            index="maximillian-index"-->
+<!--            type="raw"-->
+<!--            source="source name"-->
+<!--            sourceType="log4j"-->
+<!--            messageFormat="text"-->
+<!--            disableCertificateValidation="true">-->
+<!--            <PatternLayout pattern="%m"/>-->
+<!--    </SplunkHttp>-->
         <SplunkHttp
             name="splunkhttp"
-            url="http://localhost:8088"
-            token="4c58536f-905c-4f6e-a4c0-4495b3096403"
-            host="localhost"
-            index="maximillian_index"
-            type="raw"
-            source="spring_boot_app"
+            url="https://prd-p-q6oad.splunkcloud.com:8088"
+            token="8a3fe92e-d2fe-46c3-8275-8c0b78b99a5d"
+            index="main"
+            type="event"
+            source="source name"
             sourceType="log4j"
-            messageFormat="text"
+            messageFormat="json"
             disableCertificateValidation="true">
             <PatternLayout pattern="%m"/>
     </SplunkHttp>
@@ -27,7 +38,7 @@
         <Root level="info">
             <AppenderRef ref="Console"/>
             <AppenderRef ref="File"/>
-            <AppenderRef ref="GELF-SpringBoot"/>
+            <AppenderRef ref="splunkhttp"/>
         </Root>
     </Loggers>
 </Configuration>

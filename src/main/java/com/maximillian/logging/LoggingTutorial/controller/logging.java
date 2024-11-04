@@ -1,4 +1,4 @@
-package com.maximillian.logging.controller;
+package com.maximillian.logging.LoggingTutorial.controller;
 
 import jakarta.annotation.PostConstruct;
 import org.apache.logging.log4j.LogManager;
